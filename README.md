@@ -1,2 +1,2 @@
 # vdom-example
-simple vdom inspired in yld 
+simple vdom inspired in yld meetup
